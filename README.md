@@ -72,11 +72,3 @@ For inquiries or feedback:
 
 Name: Shirish
 Email: shirishpatel1611@gmail.com
-
-
-### What to Do Next:
-1. Replace the placeholder text (like `your-username`, `your.email@example.com`, etc.) with your information.
-2. Save this as `README.md` in your project directory.
-3. Open it in VS Code to preview and edit further if needed!  
-
-Let me know if you'd like help customizing anything further! 🚀
